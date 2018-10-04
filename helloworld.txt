@@ -13,4 +13,8 @@ commit changes - git commit -m "git commands"
 check the git directories, remote and local - git remote -v
 upload to master - git commit -m "git commands"
 
+Modify:
+
+Git clone https://github.com/ghufranmohammad/LearnJenkins.git
+
 
