@@ -1,1 +1,16 @@
 "Hello World - afer cloning" 
+
+GIT - COMMANDS
+
+To SETUP:
+Always run the commands in the wroking subdirectory of the project:
+
+Initialize the build - git init
+Setup the directory for recognition  by GIT - git config
+get status after changes - git status
+add changes - git add .
+commit changes - git commit -m "git commands"
+check the git directories, remote and local - git remote -v
+upload to master - git commit -m "git commands"
+
+
